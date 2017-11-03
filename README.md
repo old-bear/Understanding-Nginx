@@ -1,5 +1,4 @@
-# Addons exercises for Understanding-Nginx
-Install steps:
+# Install steps:
 1: Append the following parameters to configure:
    ./configure --add-module=mytest/ --add-module=myfilter/ --add-module=testslab/
 
